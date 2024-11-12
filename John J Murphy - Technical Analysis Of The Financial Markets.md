@@ -33,3 +33,15 @@
 
 ![[Pasted image 20241105130237.png]]
 		The Head and shoulders pattern is something that I am already familiar with . The neckline is key . Sometimes it may be a little shifted to one angle but not too shifted to one side . The volume pattern is strong indicator in this pattern . The left shoulder the head and right shoulders's peaks would have diminishing volumes respectively and when the neckline is broken **there may or may not be a pullback move** before moving to the downside . 
+
+
+- Volume and open interest can be used side by side . They indicate whether the trend is in continuation or the trend might shift momentum . In an uptrend if both volume and open interest are increasing , then it means that the trend is still strong . In an uptrend if the volume and open interest tend to flatten , then it means that the trend might near its term . 
+
+- Futures contracts are a zero sum game . When you open a futures contract of a long , let's say 10x  , it implies that someone has initiated a short position of 10x for you to borrow that sum . 
+- Futures contracts basically say that , if the price of bitcoin is trading at $45000 , you would buy a futures contract of %60000 that expires in 6 months. At the time of the expiration , whatever the price of the asset your contract will be liquidate making you suffer both the loss and the profit . You are not obligated to sell the contract at expiry , you can exit when you see an optimal profit . [[How do buying and selling of futures contracts work]]
+
+- On Balance Volume  , it is a type volume momentum indicator . It works on a pretty simple mechanism . If the closing price of the asset is greater than the previous candle's closing price , then the volume is added to the OBV , else it is deducted . If the closing prices are same then the OBV remains same . John J Murphy , suggests to use OBV for continuation and reversals. If the asset price is increasing and and OBV is increasing then the uptrend is doing good . If the asset price is increasing and the OBV is decreasing then it is an indication of reversal . The POTENTIAL problem with this is that it seems stupid . If the price is increasing then the OBV will obviously increase . 
+
+- Open interest is the total number of open futures contracts at the end of the day . This means there will be a one day lag in the reporting of open interest . How open interest is represented , When both the buyer and a seller (long and short) position is entered ( 1 open position is created ) , open interest increases , if both buyer and seller liquidate , the position is closed therefore open interest decreases . If both buyer enters through the liquidation of seller , then there will be no change . [[How is open interest represented]]
+
+- 
