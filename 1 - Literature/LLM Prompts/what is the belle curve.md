@@ -31,7 +31,7 @@ A **normal distribution** is a statistical term describing a distribution of dat
 
 The normal distribution is foundational to many statistical methods and assumptions. If you visualize it, imagine a smooth, bell-shaped curve centered at the mean, with most of the data points concentrated around this center and fewer as you move further from it.
 
-![[Pasted image 20241028155821.png]]
+![[Pasted image 20241028155821 1.png]]
 Here’s the bell curve in action! The graph shows a normal distribution with a mean of 0 and a standard deviation of 1. The shaded areas represent different ranges:
 
 - **±1 SD (Standard Deviation)**: About 68% of the data falls within this range.
