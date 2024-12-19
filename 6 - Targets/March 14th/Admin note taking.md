@@ -2,7 +2,7 @@ Plan : 33 modules to summarize
 Time - 12 weeks 
 3 modules per week 
 
- - [ ]  Salesforce Platform Basic
+ - [x]  Salesforce Platform Basic
  - [ ] Prepare Salesforce Orgs for Users
  - [ ] User Management 
  - [ ] Customize an Org to support a new business unit
