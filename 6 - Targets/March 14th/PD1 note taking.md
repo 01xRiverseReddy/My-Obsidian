@@ -2,11 +2,11 @@ Plan: 17 modules
 12 weeks
 
 
- - [ ]  Apex and .net basics
- - [ ] formulas and validations 
- - [ ] data modelling
- - [ ] data management 
- - [ ] approve records with approval process
+ - [x]  Apex and .net basics
+ - [x] formulas and validations 
+ - [x] data modelling
+ - [x] data management 
+ - [x] approve records with approval process
  - [ ] record triggered flows
  - [ ] Search solutions basics 
  - [ ] apex basics and database
