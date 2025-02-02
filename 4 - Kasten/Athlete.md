@@ -2,7 +2,7 @@
 ### Upper Body - 
 - [[Chest]]
 - [[Triceps]]
-- [[2 - Tags/Shoulders|Shoulders]]
+- [[Shoulders|Shoulders]]
 
 
 
@@ -17,3 +17,8 @@
 
 
 [[Workout Splits]]
+
+
+### Sports 
+
+[[Badminton]]
