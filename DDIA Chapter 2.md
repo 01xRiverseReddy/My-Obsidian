@@ -1,0 +1,13 @@
+
+- Data models are basically structures in which we represent the data . Modern Day Data models are pretty famous but what happens underneath those famous data models , how is it structured in the lower layers .
+- SQL or relational database systems were the most common and they gained a lot of traction after they were implemented . Even till date RDBMS are popular and the competitor rarely gained any form of adoption . 
+- NO SQL Databases on the other hand were successful competitors in the 2010s and have addressed a few shortcoming of RDBMS such as scalability and complex Schema relational mapping . 
+- **The problem with SQL Databases** is that the relation that exists on the database systems is hard to directly convert and store them as objects in code . For this very specific purpose there is a translation layer to do this . Even though majority of this code is managed through boiler plate code , it still has to be done and this takes effort . 
+- The problem with having to many relationships within a table is that querying takes time for one big object . For example this is the structure of LinkedIn ![[Pasted image 20250204123959.png]]
+- Whereas a non -relational database would do this effortlessly by maintaining this one row as JSON document . 
+- The main advantage of SQL databases is that we can establish consistency through implementing relationship. The many to one or one to many relationship . 
+- As the applications scales if we implement things in a document based architecture then we may need to add certain relationships alongside which increases the database calls and slows the application down . 
+- There are different data models relational , hierarchical  and netwrok based models . Heirarchial data models are where data is organised in the form a tree like structure and network based models are the ones where the data is organised in the form of graphs with vertices and sets as edges . 
+- Need to look at imperative and declarative approaches deeply . 
+- MapReduce is programming model that is used in document based models and a little in relational databases . It is similar to Map and reduce functions in javascript and is mainly used to perform preprocessing in on database queries . 
+- when we have many to many relationship scaling at a high rate relational databases proves to be ineffective therefore graph databases are in place like neo4j . They are structured much similar to graph data structure . Where each vertex need not necessarily be of the same data type 
