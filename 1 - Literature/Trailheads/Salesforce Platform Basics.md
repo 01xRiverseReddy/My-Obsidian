@@ -1,0 +1,5 @@
+
+- Salesforce is a CRM , a customer Relationship Management Software  that lets a company have a one-stop solution to manage its Support , Sales , Marketing , Finance and other departments all together . Salesforce offers standard building blocks , much like a person buying an empty house leaving him his own choice for customization . 
+- Salesforce ecosystem is customizable to a great degree with the suit of no-code(declarative approach ) with flow builder and AI-prompt builder . 
+- Salesforce offers multitenancy which basically means , that our org and other orgs will reside on the cloud with us on Salesforce servers . Salesforce takes Data security very seriously and makes sure that only the org’s data is accessible to it’s only the org’s members . 
+- Data cloud on Salesforce is a valuable tool for organizations that is migrating to Salesforce . It helps serialise data that is coming from various source and even built meaningful relations from this data using Gen AI. 

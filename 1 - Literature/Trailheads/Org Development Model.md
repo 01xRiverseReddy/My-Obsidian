@@ -1,0 +1,6 @@
+#SFDCDev #unfinished 
+
+
+- Org dev model is not what I expected thankfully , I thought it would be entirely about change sets but no it lists a strategy . It ask developers to use this workflow devSBX -> intSBX -> testSBX -> Production and UAT . It ask developer to keep track of his changes via spreadsheets which includes the manual tasks and agile managing tools . 
+- The second unit basically showcases what is to be done in realpage after copado de-commission . We clone the main branch to create the feature branch . We then go and retrieve the metadata but here is the key part . When retrieving the metadata using `sf project retrieve start yada yada yada metadata`  not entirely sure if package xml. Is created but the branch has the changes we need . The branch is then pushed to the repo and a pull request is created and onl approval it is merged with the intended org . 
+- The third unit provides us with some commands which is pretty useful to generate and deploy package.xml file . It’s the regular process . There is no backpromotion. There are only scratch-orgs and git pull to back promote changes . 

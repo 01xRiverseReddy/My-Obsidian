@@ -1,0 +1,7 @@
+
+- In the Salesforce org security comes down to the access of these 4 aspects , 1. The org itself , 2. Objects , 3. Fields , 4. Records . Salesforce provides functionality such as event monitoring etc to monitor activity and audit trail to see all the changes . 
+- The access to org can be restricted using the records under User Object . If a user needs access to the org , he needs to have a user record on Salesforce . A user cannot be deleted on Salesforce , he has to be deactivated . He has restrictions on login hours , IP ranges (profile and non profile ) . We can also set password policies , password expiration policies .
+- Access Control to Objects is entirely based on Profiles , permission sets and permission set groups , standard profiles have limitations on editing object based permissions . 
+- Access to Records is controlled by 4 key points . 1 .Org Wide Default 2 . Role hierarchy 3. Sharing Rules 4. Manual Sharing . 
+- Sharing Rules are rule based which are configured on the object setting based . They have rule based criteria and assign access to User/public groups based on the decision . 
+- Manual sharing is when an individual user consensually transfer’s writes of a record to another user 

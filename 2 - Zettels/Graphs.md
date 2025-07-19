@@ -35,3 +35,9 @@ These algorithms mainly involve using a distance array to calculate the distance
 - [[Bellman-Ford’s algorithm]]
 - [[Floyd-Warshall’s Algorithm]]
 
+
+### Minimum Cost Spanning Tree
+
+These algorithm help you find the minimum cost to derive a tree from an undirected weighted graphs . 
+
+[[Prim’s Algorithm for minimum Cost Spanning Tree]]

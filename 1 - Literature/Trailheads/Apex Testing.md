@@ -1,0 +1,6 @@
+#SFDCDev #unfinished 
+
+
+- The first unit of this Trailhead just elaborates the importance of apex tests on how it ensures the quality of the code that is written . Apex code cannot be edited in PROD and has to come from a sandbox and 75% is the code coverage needed for this to happen . @istest needs to be annotated for test classes before each method and at the beginning of the class . As a best practice is better to compartmentalise test classes where each method/ compartment tests a functionality of a piece of code . Assert statements are essential as a metric to the resilience of the tested upon code . 
+- The next unit ain’t much it just goes over writing a text class for a trigger but one interesting thing is test.startTest() and test.stopTest() . This set’s a fresh set of governor limits on salesforce between the startTest and stopTest block . 
+- The third unit just showcases the benefits of having a testDataFactory utility class . With a testDataFactory class a developer does not have to re-write multiple blocks of code for each test class to create data to test on . He can instead use a utility class with pre written code and reference it . 

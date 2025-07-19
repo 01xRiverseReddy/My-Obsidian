@@ -1,33 +1,26 @@
 
 ### Pre Morning 
 
-- [ ] Wake up at 6am 
-- [ ] 5 Laws of power 
+- [x] Wake up at 6am 
 
 ### Morning 
 
-- [ ] Chest workout 
-- [ ] Finish Git notes 
-- [ ] DDIA 6 pages
-- [ ] Gale-Shapely Algorithm 
-
+- [x] Chest workout 
+- [x] Inverting a binary tree
+- [ ] SSTables and LSM trees 
 
 ### Afternoon 
-- [ ] Cricket matches
-- [ ] Check emails 
-- [ ] Shortest distance algorithms 
+- [ ] Whitelist code and secure vulnerabilities 
+- [ ] Implement longest increasing subsequence using BIT tree
+- [ ] One of the Apex modules in PD1
 
 
 
 ### Evening 
-- [ ] Bath 
-- [ ] Call Nani Thaathayya 
-- [ ] Protein bar 
-- [ ] Dana Menking email workflow check . 
+- [ ] Call muks
 
 
 #### Night 
-- [ ] A chess opening and a chess match 
-- [ ] Dinner and a little short workout 
+- [ ] Touch base on Copado fundamentals 
 
 

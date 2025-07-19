@@ -1,12 +1,24 @@
 
+### Roadmap
+[[Problem Solving.canvas|Problem Solving]]
 
-1. [[Arrays]]
 
-[[Dynamic Programming]]
+### Categories
 
+[[Arrays and Hashing]]
+[[Two Pointers]]
+[[Stack]]
+[[Binary Search]]
+[[Sliding Window]]
+[[Linked List]]
+[[Trees]]
+[[Tries]]
+[[Backtracking]]
+[[Heaps]]
 [[Graphs]]
+[[Dynamic Programming]]
+[[Intervals]]
+[[Greedy]]
+[[Advanced Graphs]]
 
-
-[[Data Structures]]
-
-[[Gale-Shapely Algorithm]]
+[[Syntactic Cheat Sheet]]

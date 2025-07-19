@@ -1,0 +1,5 @@
+
+- The first unit gives us an intro on how flow orchestration is structured . Still confused about the specific use case . On how it is structured , Stages , steps flows and work items .  Steps can be interactive or background . Interactive are screen flows whereas the others are either record triggered or auto launched flows .  Work items is something that is created when a step is being run  and it is assigned to a user or a group . 
+- The next explains on how to design an orchestration , how to layout the different stages in the process and breakdown the steps in the process . After breaking down we round up on the people who are working the steps to plan the work item assignment .
+- Next unit is just writing a flow that sends an email . 
+- The next unit is about designing a record trigger orchestrated flow. We can start an orchestration whenever a record is created . 
